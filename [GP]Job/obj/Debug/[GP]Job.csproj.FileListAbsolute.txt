@@ -1,0 +1,17 @@
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\bin\Debug\[GP]Job.exe.config
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\bin\Debug\[GP]Job.exe
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\bin\Debug\[GP]Job.pdb
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\bin\Debug\Fizzler.dll
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\bin\Debug\Leaf.xNet.dll
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\bin\Debug\Fizzler.pdb
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\bin\Debug\Leaf.xNet.xml
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\obj\Debug\[GP]Job.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\obj\Debug\[GP]Job.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\obj\Debug\[GP]Job.csproj.CopyComplete
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\obj\Debug\[GP]Job.exe
+C:\Users\Mark\source\repos\[GP]Job\[GP]Job\obj\Debug\[GP]Job.pdb
